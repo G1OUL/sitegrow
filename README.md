@@ -3,6 +3,7 @@
 > **Turn website visitors into paying business enquiries.**  
 > SiteGrow is an automated website growth assistant for small businesses, freelancers, web agencies, and local service providers.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-sitegrow--nine.vercel.app-D2FC36?logo=vercel&logoColor=black&labelColor=111215)](https://sitegrow-nine.vercel.app)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue.svg)]()
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black.svg)]()
